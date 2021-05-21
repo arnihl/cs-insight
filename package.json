@@ -22,7 +22,6 @@
   ],
   "_resolved": "git://github.com/smileycoin/cs-insight.git#71d810179ad9a602dd46a5363d1f03f65ae00d76",
   "_spec": "cs-insight@git://github.com/smileycoin/cs-insight.git",
-  "_where": "/Users/arnijonsson/Documents/introcs/SMLY/CoinSpace/node_modules/cs-wallet",
   "bugs": {
     "url": "https://github.com/CoinSpace/cs-insight/issues"
   },
